@@ -1,0 +1,71 @@
+.container {
+background-color: black;
+width: 400px;
+height: 250px;
+margin: auto;
+}
+
+.exercise-one{
+    height: 100vh;
+    border:1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flag {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.circle {
+    width: 120px;
+    height: 120px;
+    background-color: maroon;
+    border-radius: 100%;
+}
+
+.exercise-three {
+    width: 302px;
+    height: 292px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    display: flex;
+    align-items: flex-end;
+}
+
+.column-one {
+    background-color: aqua;
+    width: 50px;
+    height: 250px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.column-two {
+    background-color: aqua;
+    width: 50px;
+    height: 174px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.column-three {
+    background-color: aqua;
+    width: 50px;
+    height: 92px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.column-four {
+    background-color: aqua;
+    width: 50px;
+    height: 221px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.space {
+    margin-bottom: 20px;
+}
